@@ -9,6 +9,6 @@ I'm Ronald, a full-stack developer passionate about the JavaScript ecosystem
 
 - :office_worker: Full-stack Developer at **Afya Education**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Gatsby, Apollo, GraphQL, Redis, Mongo, MySQL, Php & more
-- :books: Studying some AWS products
+- :books: Studying Data Structures & Algorithms
 
 ---
