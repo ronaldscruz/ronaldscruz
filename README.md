@@ -8,7 +8,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Senior Full Stack Developer (React, Node, AWS) from São Paulo, Brazil. My journey in technology started at a young age, leading me to a fulfilling career in web development.
+I am a Senior Software Engineer (React, Node, AWS) from São Paulo, Brazil. My journey in technology started at a young age, leading me to a fulfilling career in web development.
 
 - Working as a Senior Software Engineer at Afya, leading technical projects, mentoring developers, and tackling complex challenges.
 - Expertise in React.js, Node.js, Next.js, AWS, and more. Passionate about creating high-quality, scalable web applications.
