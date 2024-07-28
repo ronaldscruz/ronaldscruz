@@ -7,7 +7,7 @@
   </div>
 </div>
 
-#### 💻 &nbsp; About Me :
+#### 💻 &nbsp; About Me
 I am a Senior Software Engineer (React, Node, AWS) from São Paulo, Brazil. My journey in technology started at a young age, leading me to a fulfilling career in web development.
 
 - Working as a Senior Software Engineer at Afya, leading technical projects, mentoring developers, and tackling complex challenges.
@@ -16,7 +16,7 @@ I am a Senior Software Engineer (React, Node, AWS) from São Paulo, Brazil. My j
 
 Feel free to connect for tech discussions or potential collaborations.
 
-#### :hammer_and_wrench: &nbsp; Languages and Tools :
+#### :hammer_and_wrench: &nbsp; Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
