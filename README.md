@@ -10,7 +10,7 @@
 #### 💻 &nbsp; About Me
 I am a Senior Software Engineer (React, Node, AWS) from São Paulo, Brazil. My journey in technology started at a young age, leading me to a fulfilling career in web development.
 
-- Working as a Senior Software Engineer at Afya, leading technical projects, mentoring developers, and tackling complex challenges.
+- Working as a Software Engineer at Mercado Libre.
 - Expertise in React.js, Node.js, Next.js, AWS, and more. Passionate about creating high-quality, scalable web applications.
 - Enthusiast for exploring new technologies.
 
